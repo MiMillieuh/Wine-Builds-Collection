@@ -1,6 +1,8 @@
 # Wine-Builds-Collection
 A collection of wine builds that I use (so if you're too lazy to compile them you can download them)
 
+I'm not the owner of the source code (except on my custom versions), I just provide builds that I used. please go support the original creator of the version you use :) 
+
 ## Builds avalible :
 
 ### **[MiMillieuh](https://github.com/MiMillieuh/) :**
