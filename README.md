@@ -12,3 +12,4 @@ I'm not the owner of the source code (except on my custom versions), I just prov
 ### **[ElementalWarrior](https://gitlab.winehq.org/ElementalWarrior/) :** 
 
 - [affinity-photo3-wine9.13-part3](https://github.com/MiMillieuh/Wine-Builds-Collection/releases/download/1.0.0/ElementalWarrior-9.3.zip)
+- [affinity-photo2-wine10.3](https://github.com/MiMillieuh/Wine-Builds-Collection/releases/download/1.0.0/ElementalWarrior-10.3.zip)
